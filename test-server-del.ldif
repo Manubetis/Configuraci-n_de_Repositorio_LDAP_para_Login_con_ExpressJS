@@ -1,0 +1,2 @@
+dn: uid=alum.mjaer.2021,ou=alumnos,dc=iesalixar,dc=org
+changetype: delete
