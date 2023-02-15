@@ -1,9 +1,0 @@
-dn: uid=alum.mjaenr.2021,ou=alumnos,dc=iesalixar,dc=org
-objectclass: top
-objectclass: person
-objectclass: organizationalPerson
-objectclass: inetOrgPerson
-cn: Manuel Jaén Rojas
-sn: Jaén
-uid: alum.mjaenr.2021
-userPassword: usermanujaen
